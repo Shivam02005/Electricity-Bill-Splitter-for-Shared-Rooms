@@ -4,7 +4,7 @@ A tiny Python script to fairly divide a shared room’s electricity bill among r
 
 ## Features
 - Pro‐rata splitting using *days stayed* as weight  
-- No external dependencies—just Python’s built-ins  
+- No external dependencies - just Python’s built-ins  
 - Fully self-contained; paste and run
 
 ## How It Works
